@@ -7,6 +7,8 @@ vagrant up
 vagrant provision
 ```
 
+Provisioning is done from `script.sh`.
+
 The VM installs:
 
 - nvm for the `vagrant` user
